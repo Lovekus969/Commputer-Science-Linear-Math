@@ -11,3 +11,6 @@ We can represent the system using matrices and vectors:
 
 𝐴𝑥 = 𝑏
                                       Ax=b
+3. Vector View
+
+The system means that a linear combination of column vectors of 
