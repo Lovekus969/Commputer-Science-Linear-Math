@@ -3,3 +3,11 @@ System of equations
 A system is just multiple linear equations working together. Example:
 
 2x+y=5
+
+
+2. Matrix Form
+
+We can represent the system using matrices and vectors:
+
+𝐴𝑥 = 𝑏
+                                      Ax=b
