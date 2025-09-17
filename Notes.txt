@@ -4,3 +4,8 @@ Linear Algebra is a branch of math that deals with linear equations, vectors, an
 Homogeneous System of Linear Equations
 
 A homogeneous system is when all constant terms (the right-hand side of the equations) are zero.
+Definition
+
+A set of vectors (or functions, or equations) is said to be linearly independent if no vector in the set can be written as a linear combination of the others.
+
+Otherwise, they are linearly dependent.
