@@ -1,3 +1,6 @@
 What is Linear Algebra?
 
 Linear Algebra is a branch of math that deals with linear equations, vectors, and matrices.
+Homogeneous System of Linear Equations
+
+A homogeneous system is when all constant terms (the right-hand side of the equations) are zero.
