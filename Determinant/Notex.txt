@@ -1,0 +1,13 @@
+Determinant and properties 
+| Property                                       | Description                                                             |
+| ---------------------------------------------- | ----------------------------------------------------------------------- |
+| **1. det(I) = 1**                              | The determinant of the identity matrix is 1.                            |
+| **2. det(Aᵀ) = det(A)**                        | Transposing a matrix doesn’t change its determinant.                    |
+| **3. det(AB) = det(A)·det(B)**                 | Determinant of a product = product of determinants.                     |
+| **4. det(kA) = kⁿ·det(A)**                     | If A is n×n and multiplied by a scalar k, determinant multiplies by kⁿ. |
+| **5. det(A⁻¹) = 1/det(A)**                     | If A is invertible, the determinant of its inverse is the reciprocal.   |
+| **6. det(A) = 0 ⇒ A is singular**              | Meaning A has no inverse.                                               |
+| **7. Swapping two rows (or columns)**          | Changes the sign of the determinant.                                    |
+| **8. Multiplying a row by a scalar k**         | Multiplies determinant by k.                                            |
+| **9. Adding a multiple of one row to another** | Does **not** change the determinant.                                    |
+| **10. det of triangular matrix**               | Product of diagonal elements.                                           |
