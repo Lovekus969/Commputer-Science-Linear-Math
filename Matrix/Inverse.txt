@@ -1,0 +1,26 @@
+When does a 3×3 inverse exist?
+
+A matrix has an inverse only if its determinant ≠ 0.
+Inverse using 
+
+A I.3  -------> I.3 A^-1
+
+Then:
+
+Inverse exists
+
+Right side is 
+Determinant is non-zero
+
+❌ Case 2: A row becomes all zeros on the LEFT side
+
+
+Then you can say:
+
+✔ Matrix is NOT invertible
+✔ Rows are linearly dependent
+✔ Rank < 3
+✔ Determinant = 0
+✔ No inverse exists
+
+This is a 100% valid conclusion.
